@@ -14,3 +14,7 @@ Prereleases are versions identified by a semantic version number hyphenated with
 
 - Added a feature
 - Added a fix
+
+### Post-v1.0.0
+
+- Add a feature
